@@ -1,15 +1,12 @@
 field,display_name,browse_link
 title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,
+Artist,artist
+Image Source,image_source
+Series,series
+Image Notes,image_notes
+Image Credits,image_credits
+Subjects,subjects
+Keywords,keywords
+Title of Publication,title_of_publication
+Place of Publication,place_of_publication
+Publication Year (Start),Publication_year
