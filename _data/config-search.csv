@@ -1,7 +1,7 @@
 field,index,display
 title,true,true
 artist,true,true
-subjects,true,true
+subject,true,true
 keywords,true,true
 title_of_publication,true,true
 Publication_year,true,true
