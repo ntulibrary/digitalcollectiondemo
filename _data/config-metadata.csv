@@ -1,12 +1,13 @@
 field,display_name,browse_link
-title,Title,
-Artist,artist
-Image Source,image_source
-Series,series
-Image Notes,image_notes
-Image Credits,image_credits
-Subjects,subjects
-Keywords,keywords
-Title of Publication,title_of_publication
-Place of Publication,place_of_publication
-Publication Year (Start),Publication_year
+title,Title
+artist,Artist
+image_source,Image Source
+image_type,Image Type
+series,Series
+image_notes,Image Notes
+image_credits,Image Credits
+subjects,Subjects
+keywords,Keywords
+title_of_publication,Title of Publication
+place_of_publication,Place of Publication
+Publication_year,Publication Year (Start)
