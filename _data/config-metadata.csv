@@ -6,8 +6,8 @@ image_type,Image Type
 series,Series
 image_notes,Image Notes
 image_credits,Image Credits
-subjects,Subjects
-keywords,Keywords
+subjects,Subjects,true
+keywords,Keywords,true
 title_of_publication,Title of Publication
 place_of_publication,Place of Publication
 Publication_year,Publication Year (Start)
