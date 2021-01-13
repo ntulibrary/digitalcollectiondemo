@@ -1,4 +1,4 @@
-objectid,filename,title,format,artist,image_source,image_type,series,image_notes,image_credits,subject,keywords,title_of_publication,place_of_publication,Publication_year
+objectid,filename,title,format,artist,image_source,image_type,series,image_notes,image_credits,subject,keywords,title_of_publication,place_of_publication,date
 bas0002,1.jpg,,image/jpg,Bagyi Aung Soe,Kyi Aye,Periodical Cover,1940s,,Photograph by Yin Ker,culture0; humans; mothernature; signatures; things,dated; femalefigures; pots; signedaungsoeb; tradition; trees,The Dawn,Yangon; Myanmar (Burma),1949
 bas0003,2.jpg,Time to Shine,image/jpg,Bagyi Aung Soe,U Soe Nyunt,Periodical Illustration,1940s,,Photograph by Yin Ker; Title translated by Kyaw K. Lwin,humans; mothernature; signatures,malefigures0; signedaungsoeb; trees,Taya,Yangon; Myanmar (Burma),1949
 bas0004,3.jpg,Heavenly Damsel,image/jpg,Bagyi Aung Soe,U Soe Nyunt,Periodical Illustration,1940s,,Photograph by Yin Ker; Title translated by Kyaw K. Lwin,humans; signatures,femalefigures; signedaungsoeb,Taya,Yangon; Myanmar (Burma),1949
