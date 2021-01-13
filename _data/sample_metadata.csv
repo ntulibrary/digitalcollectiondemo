@@ -1,4 +1,4 @@
-objectid,filename,title,format,artist,image_source,image_type,series,image_notes,image_credits,subject,keywords,title_of_publication,place_of_publication,date
+﻿objectid,filename,title,format,artist,image_source,image_type,series,image_notes,image_credits,subject,keywords,title_of_publication,place_of_publication,date
 bas0002,1.jpg,,image/jpg,Bagyi Aung Soe,Kyi Aye,Periodical Cover,1940s,,Photograph by Yin Ker,culture0; humans; mothernature; signatures; things,dated; femalefigures; pots; signedaungsoeb; tradition; trees,The Dawn,Yangon; Myanmar (Burma),1949
 bas0003,2.jpg,Time to Shine,image/jpg,Bagyi Aung Soe,U Soe Nyunt,Periodical Illustration,1940s,,Photograph by Yin Ker; Title translated by Kyaw K. Lwin,humans; mothernature; signatures,malefigures0; signedaungsoeb; trees,Taya,Yangon; Myanmar (Burma),1949
 bas0004,3.jpg,Heavenly Damsel,image/jpg,Bagyi Aung Soe,U Soe Nyunt,Periodical Illustration,1940s,,Photograph by Yin Ker; Title translated by Kyaw K. Lwin,humans; signatures,femalefigures; signedaungsoeb,Taya,Yangon; Myanmar (Burma),1949
@@ -9,4 +9,4 @@ bas0009,7.jpg,The Last Moment,image/jpg,Bagyi Aung Soe,U Soe Nyunt,Periodical Il
 bas0010,8.jpg,A Single Word,image/jpg,Bagyi Aung Soe,U Soe Nyunt,Periodical Illustration,1940s,,Photograph by Yin Ker; Title translated by Kyaw K. Lwin,signatures; violencetrauma,death; signedaungsoel,Mathanka,Yangon; Myanmar (Burma),1948
 bas0011,9.jpg,Oh Ye Traveller!,image/jpg,Bagyi Aung Soe,U Soe Nyunt,Periodical Illustration,1940s,,Photograph by Yin Ker; Title translated by Kyaw K. Lwin,mothernature; signatures; transport; urbanisation,leaves; roads; signedaungsoeb; trees; water,Mathanka,Yangon; Myanmar (Burma),1948
 bas0012,10.jpg,Let Us Take a Walk; May,image/jpg,Bagyi Aung Soe,U Soe Nyunt,Periodical Illustration,1940s,,Photograph by Yin Ker; Title translated by Kyaw K. Lwin,mothernature; signatures; transport; urbanisation,roads; signedaungsoeb; trees,Taya,Yangon; Myanmar (Burma),1949
-bas0013,,??,,?????,??,??,1940s,,Photograph by Yin Ker; Title translated by Kyaw K. Lwin,????,????,???,????,1949
+bas0013,,正题名,,正题名,正题名,正题名,1940s,,Photograph by Yin Ker; Title translated by Kyaw K. Lwin,正题名,正题名,正题名,正题名,1949
