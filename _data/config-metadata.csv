@@ -10,4 +10,4 @@ subject,Subjects,true
 keywords,Keywords,true
 title_of_publication,Title of Publication
 place_of_publication,Place of Publication
-Publication_year,Publication Year (Start)
+date,Publication Year (Start)
